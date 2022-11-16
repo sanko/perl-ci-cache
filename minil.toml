@@ -1,0 +1,7 @@
+name = "CI-Cache"
+badges = ["github-actions/test.yml"]
+authority="cpan:SANKO"
+
+module_maker="ModuleBuildTiny"
+static_install = "auto"
+
